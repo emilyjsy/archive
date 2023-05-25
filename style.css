@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Gaegu:wght@300&family=Nanum+Myeongjo:wght@700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Gaegu&display=swap');
+  .card-container {
+    display: flex; /* Flexbox를 사용하여 요소들을 가로로 배열합니다 */
+  }
+
+  .card {
+    margin-right: 10px; /* 각 카드 사이의 간격을 조정합니다 */
+  }
+ 
+  .image-container {
+    display: flex;
+  }
+  
+  p{
+    font-family: 'Gaegu';
+    color:rgb(0, 0, 0);
+  }
